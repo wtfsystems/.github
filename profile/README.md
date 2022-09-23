@@ -2,4 +2,4 @@
 
 <h3 align="center">Fun in Silico</h3>
 
-<p style="text-indent: 2em;">Aiming to design and develop a 3D engine that targets the web platform. ........... ............ .......... ............ ............ ............... .............. ............... .................</p>
+__Design and developing a 3D engine that targets the web platform.__  Check out the current work below!
