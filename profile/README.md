@@ -5,8 +5,14 @@
 *Designing and developing a 3D engine that targets the web as a platform.  The goal is for ease of use and integration into NodeJS.  Check out the current work below!*
 
 ### Affiliates:
-<p style="text-align: justify; margin-bottom: 20px; margin-top: 2px;">
-<a href="https://moddingcommunity.com/">
-<img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/tmc_icon_one_v2_icon_font4_light.png"></a>
-&nbsp;- A community centered around game modding and designing a modding system back end.
-</p>
+<table>
+<tr>
+  <td>
+  <a href="https://moddingcommunity.com/">
+  <img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/tmc_icon_one_v2_icon_font4_light.png"></a>
+  </td>
+  <td>
+  &nbsp;- A community centered around game modding and designing a modding system back end.
+  </td>
+</tr>
+</table>
