@@ -12,7 +12,7 @@
   <img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/tmc_icon_one_v2_icon_font4_light.png"></a>
   </td>
   <td>
-  A community centered around game modding and designing a modding system back end.
+  A community centered around game modding and creating a supporting back end for development.
   </td>
 </tr>
 </table>
