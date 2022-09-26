@@ -7,7 +7,7 @@
 ### Affiliates:
 <table border="2">
 <tr>
-  <td padding="0px">
+  <td>
   <a href="https://moddingcommunity.com/">
   <img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/tmc_icon_one_v2_icon_font4_light.png"></a>
   </td>
