@@ -5,7 +5,7 @@
 *Designing and developing a 3D engine that targets the web as a platform.  The goal is for ease of use and integration into NodeJS.  Check out the current work below!*
 
 ### Affiliates:
-<table border="none">
+<table border="2">
 <tr>
   <td>
   <a href="https://moddingcommunity.com/">
