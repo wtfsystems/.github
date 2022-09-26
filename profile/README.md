@@ -8,7 +8,7 @@
 <table border="2">
 <tr>
   <td>
-  <a href="https://moddingcommunity.com/" target="_blank">
+  <a href="https://moddingcommunity.com/">
   <img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/tmc_icon_one_v2_icon_font4_light.png"></a>
   </td>
   <td>
