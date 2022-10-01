@@ -22,3 +22,10 @@ Engine repository:  https://github.com/wtfsystems/wtengine
   </td>
 </tr>
 </table>
+
+<p align="center">
+<a href="https://isocpp.org/std/the-standard">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/c-logo-1.png"></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/">
+<img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/nodejs.png"></a>&nbsp;&nbsp;
+</p>
