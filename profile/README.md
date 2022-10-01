@@ -30,4 +30,7 @@ __Engine repository:__  https://github.com/wtfsystems/wtengine
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/c-logo-1.png"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org/">
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/nodejs.png"></a>&nbsp;&nbsp;
+<a href="https://liballeg.org/">
+<img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/allegro_logo.png"></a>&nbsp;&nbsp;
+
 </p>
