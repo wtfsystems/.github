@@ -2,13 +2,13 @@
 
 <h3 align="center">Fun in Silico</h3>
 
-<br/><br/>
+<br/>
 
 *Designing and developing a 3D engine that targets the web as a platform.  The goal is for ease of use and integration into NodeJS.  Check out the current work below!*
 
 Engine repository:  https://github.com/wtfsystems/wtengine
 
-<br/><br/>
+<br/>
 
 ### Affiliates:
 <table border="2">
