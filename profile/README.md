@@ -23,7 +23,7 @@ __Engine repository:__  https://github.com/wtfsystems/wtengine
 </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <p align="center">
 <a href="https://isocpp.org/std/the-standard">
