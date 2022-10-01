@@ -23,6 +23,8 @@ Engine repository:  https://github.com/wtfsystems/wtengine
 </tr>
 </table>
 
+<br/><br/>
+
 <p align="center">
 <a href="https://isocpp.org/std/the-standard">
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/c-logo-1.png"></a>&nbsp;&nbsp;
