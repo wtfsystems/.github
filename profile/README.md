@@ -8,7 +8,8 @@
 
 <br/>
 
-__Engine repository:__  https://github.com/wtfsystems/wtengine
+- __Engine repository:__  https://github.com/wtfsystems/wtengine
+- __Demo Game:__ https://github.com/wtfsystems/wte_demo_01
 
 <br/>
 
