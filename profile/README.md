@@ -7,7 +7,7 @@
 <img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/wte_logo.png">
 </a>
 
-- A C++17 game engine
+- __A C++17 game engine__
 - __Source repository:__  https://github.com/wtfsystems/wtengine
 - __Demo Game:__ https://github.com/wtfsystems/wte_demo_01
 
@@ -15,7 +15,7 @@
 <img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/wtgui_logo.png">
 </a>
 
-- Expermental HTML5 Canvas Menu System
+- __Expermental HTML5 Canvas Menu System__
 - __Source repository:__  https://github.com/wtfsystems/wtgui
 - __NPM:__ https://www.npmjs.com/org/wtfsystems
 
