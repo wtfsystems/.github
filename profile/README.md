@@ -12,7 +12,7 @@
 - __Demo Game:__ https://github.com/wtfsystems/wte_demo_01
 
 <a href="https://github.com/wtfsystems/wtgui">
-&nbsp;<img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/wtgui_logo.png">
+&nbsp;&nbsp;<img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/wtgui_logo.png">
 </a>
 
 - Expermental HTML5 Canvas Menu System
