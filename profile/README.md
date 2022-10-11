@@ -4,6 +4,10 @@
 
 <br/>
 
+*Creating video game software for the web*
+
+<br/>
+
 <a href="https://github.com/wtfsystems/wtengine">
 <img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/wte_logo.png">
 </a>
