@@ -6,7 +6,7 @@
 
 <a href="https://github.com/wtfsystems/wtengine">
 <img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/wte_logo.png">
-</a>
+</a><br/>
 A C++17 game engine
 
 - __Engine repository:__  https://github.com/wtfsystems/wtengine
