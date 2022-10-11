@@ -16,7 +16,7 @@
 </a>
 
 - __Expermental HTML5 Canvas Menu System__
-- __NPM:__ https://www.npmjs.com/org/wtfsystems
+- __NPM:__ https://www.npmjs.com/package/@wtfsystems/wtgui
 - __Source repository:__  https://github.com/wtfsystems/wtgui
 
 <br/>
