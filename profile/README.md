@@ -8,8 +8,15 @@
 </a>
 
 - A C++17 game engine
-- __Engine repository:__  https://github.com/wtfsystems/wtengine
+- __Source repository:__  https://github.com/wtfsystems/wtengine
 - __Demo Game:__ https://github.com/wtfsystems/wte_demo_01
+
+<a href="https://github.com/wtfsystems/wtgui">
+<img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/wtgui_logo.png">
+</a>
+
+- Expermental HTML5 Canvas Menu System
+- __Source repository:__  https://github.com/wtfsystems/wtgui
 
 <br/>
 
