@@ -4,7 +4,7 @@
 
 <br/>
 
-*Creating video game software for the web*
+<p align="center">*Creating video game software for the web*</p>
 
 <br/>
 
