@@ -4,13 +4,10 @@
 
 <br/>
 
-*Designing and developing a 3D engine that targets the web as a platform.  The goal is for ease of use and integration into NodeJS.  Check out the current work below!*
-
-<br/>
-
 <a href="https://github.com/wtfsystems/wtengine">
 <img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/wte_logo.png">
 </a>
+A C++17 game engine
 
 - __Engine repository:__  https://github.com/wtfsystems/wtengine
 - __Demo Game:__ https://github.com/wtfsystems/wte_demo_01
