@@ -20,9 +20,6 @@
 - __Source repository:__  https://github.com/wtfsystems/wtgui
 
 <br/>
-<a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
-
-<br/>
 
 ### Affiliates:
 <table border="2">
@@ -40,6 +37,8 @@
 <br/>
 
 <p align="center">
+<a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
+<br/>
 <a href="https://isocpp.org/std/the-standard">
 <img style="height: 64px;" src="https://github.com/AtomicSponge/AtomicSponge/blob/main/images/c-logo-1.png"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org/">
