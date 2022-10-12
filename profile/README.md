@@ -19,6 +19,7 @@
 - __NPM:__ https://www.npmjs.com/package/@wtfsystems/wtgui
 - __Source repository:__  https://github.com/wtfsystems/wtgui
 
+<br/>
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
 
 <br/>
