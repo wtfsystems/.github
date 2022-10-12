@@ -4,5 +4,5 @@
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
   <br/>
-  All related images released under Creative Commons CC0 and are released to the public domain.
+  All wtfsystems related images contained in this repository released under Creative Commons CC0 and are released to the public domain.
 </p>
