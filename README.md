@@ -4,8 +4,3 @@
 
 All wtfsystems related images contained here released under the __[Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/)__ license.
 ![Creative Commons Zero](https://licensebuttons.net/p/zero/1.0/80x15.png)
-
-## Links:
-### - https://www.wtfsystems.net/
-### - https://www.npmjs.com/org/wtfsystems
-### - https://github.com/wtfsystems
