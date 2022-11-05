@@ -2,6 +2,8 @@
 
 <h3 align="center">Fun in Silico</h3>
 
+![Creative Commons Zero](https://licensebuttons.net/p/zero/1.0/80x15.png)
+
 ## Links:
 ## - https://www.wtfsystems.net/
 ## - https://www.npmjs.com/org/wtfsystems
