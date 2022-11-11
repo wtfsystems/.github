@@ -1,4 +1,4 @@
-<a href="https://www.wtfsystems.net">![wtfsystems](https://github.com/wtfsystems/.github/blob/main/wtf_logo_large.png)</a>
+![wtfsystems](https://github.com/wtfsystems/.github/blob/main/wtf_logo_large.png)
 <h4 align="center">Creating video game software for the web</h4>
 
 <br/>
