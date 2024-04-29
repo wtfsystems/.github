@@ -21,6 +21,8 @@
 <p align="center">
 <a href="https://isocpp.org/std/the-standard">
 <img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/img/c-logo-1.png"></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/">
+<img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/img/typescript.svg"></a>&nbsp;&nbsp;  
 <a href="https://liballeg.org/">
 <img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/img/allegro_logo.png"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org/">
