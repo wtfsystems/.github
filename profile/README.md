@@ -19,15 +19,15 @@
 
 <h4 align="center">Created With</h3>
 <p align="center">
-<a href="https://isocpp.org/std/the-standard"><img style="height: 64px;" src="./../img/c-logo-1.png"></a>
+<a href="https://isocpp.org/std/the-standard"><img style="height: 64px;" src="./img/c-logo-1.png"></a>
 &nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/"><img style="height: 64px;" src="./../img/typescript.svg"></a>
+<a href="https://www.typescriptlang.org/"><img style="height: 64px;" src="./img/typescript.svg"></a>
 &nbsp;&nbsp;  
-<a href="https://liballeg.org/"><img style="height: 64px;" src="./../img/allegro_logo.png"></a>
+<a href="https://liballeg.org/"><img style="height: 64px;" src="./img/allegro_logo.png"></a>
 &nbsp;&nbsp;
-<a href="https://nodejs.org/"><img style="height: 64px;" src="./../img/nodejs.png"></a>
+<a href="https://nodejs.org/"><img style="height: 64px;" src="./img/nodejs.png"></a>
 &nbsp;&nbsp;
-<a href="https://electron-vite.github.io/"><img style="height: 64px;" src="./../img/electron-vite.svg"></a>
+<a href="https://electron-vite.github.io/"><img style="height: 64px;" src="./img/electron-vite.svg"></a>
 &nbsp;&nbsp;
 <br/><br/>
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
