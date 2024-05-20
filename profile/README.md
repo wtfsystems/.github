@@ -1,7 +1,7 @@
-![wtfsystems](./../logos/wtf_logo_large.png)
+![wtfsystems](./logos/wtf_logo_large.png)
 
 <br/>
-<img style="height: 48px;" src="./../logos/wte_logo.png">
+<img style="height: 48px;" src="./logos/wte_logo.png">
 
 - __A C++17 game engine__
 - __Source repository:__  https://github.com/wtfsystems/wtengine
@@ -9,7 +9,7 @@
 - __Documentation:__ https://www.wtfsystems.net/docs/wtengine/index.html
 
 <br/>
-&nbsp;&nbsp;<img style="height: 48px;" src="./../logos/wtgui_logo.png">
+&nbsp;&nbsp;<img style="height: 48px;" src="./logos/wtgui_logo.png">
 
 - __Experimental HTML5 Canvas Menu System__
 - __NPM:__ https://www.npmjs.com/package/@wtfsystems/wtgui
