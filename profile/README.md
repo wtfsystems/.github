@@ -23,9 +23,9 @@
 &nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/"><img style="height: 64px;" src="./img/typescript.svg"></a>
 &nbsp;&nbsp;  
-<a href="https://liballeg.org/"><img style="height: 64px;" src="./img/allegro_logo.png"></a>
-&nbsp;&nbsp;
 <a href="https://nodejs.org/"><img style="height: 64px;" src="./img/nodejs.png"></a>
+&nbsp;&nbsp;
+<a href="https://liballeg.org/"><img style="height: 64px;" src="./img/allegro_logo.png"></a>
 &nbsp;&nbsp;
 <a href="https://electron-vite.github.io/"><img style="height: 64px;" src="./img/electron-vite.svg"></a>
 &nbsp;&nbsp;
