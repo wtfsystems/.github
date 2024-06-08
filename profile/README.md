@@ -14,7 +14,6 @@
 - __Experimental Menu System__
 - __NPM:__ https://www.npmjs.com/package/@wtfsystems/wtgui
 - __Source repository:__  https://github.com/wtfsystems/wtgui
-- __Example:__ https://github.com/wtfsystems/wtgui_example
 - __Documentation:__ https://www.wtfsystems.net/docs/wtgui/
 
 <h4 align="center">Created With</h3>
