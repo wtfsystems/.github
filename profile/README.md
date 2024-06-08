@@ -11,7 +11,7 @@
 <br/>
 &nbsp;&nbsp;<img style="height: 48px;" src="./logos/wtgui_logo.png">
 
-- __Experimental HTML5 Canvas Menu System__
+- __Experimental Menu System__
 - __NPM:__ https://www.npmjs.com/package/@wtfsystems/wtgui
 - __Source repository:__  https://github.com/wtfsystems/wtgui
 - __Example:__ https://github.com/wtfsystems/wtgui_example
