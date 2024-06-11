@@ -1,4 +1,4 @@
-![wtfsystems](./logos/wtf_logo_large.png)
+![wtfsystems](https://github.com/wtfsystems/.github/blob/main//logos/wtf_logo_large.png)
 
 <br/>
 <img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/logos/wte_logo.png">
