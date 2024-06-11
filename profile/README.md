@@ -1,7 +1,7 @@
 ![wtfsystems](./logos/wtf_logo_large.png)
 
 <br/>
-<img style="height: 48px;" src="./logos/wte_logo.png">
+<img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/img/wte_logo.png">
 
 - __A C++17 game engine__
 - __Source repository:__  https://github.com/wtfsystems/wtengine
@@ -9,7 +9,7 @@
 - __Documentation:__ https://www.wtfsystems.net/docs/wtengine/index.html
 
 <br/>
-&nbsp;&nbsp;<img style="height: 48px;" src="./logos/wtgui_logo.png">
+&nbsp;&nbsp;<img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/img/wtgui_logo.png">
 
 - __Experimental Menu System__
 - __NPM:__ https://www.npmjs.com/package/@wtfsystems/wtgui
@@ -18,9 +18,9 @@
 
 <h4 align="center">Created With</h3>
 <p align="center">
-<a href="https://isocpp.org/std/the-standard"><img style="height: 64px;" src="./img/c-logo-1.png"></a>
+<a href="https://isocpp.org/std/the-standard"><img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/img/c-logo-1.png"></a>
 &nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/"><img style="height: 64px;" src="./img/typescript.svg"></a>
+<a href="https://www.typescriptlang.org/"><img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/img/typescript.svg"></a>
 &nbsp;&nbsp;  
 <a href="https://nodejs.org/"><img style="height: 64px;" src="./img/nodejs.png"></a>
 &nbsp;&nbsp;
