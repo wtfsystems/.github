@@ -26,7 +26,7 @@
 &nbsp;&nbsp;  
 <a href="https://nodejs.org/"><img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/img/nodejs.png"></a>
 &nbsp;&nbsp;
-<a href="https://electron-vite.github.io/"><img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/img/electron-vite.svg"></a>
+<a href="https://vitejs.dev/"><img style="height: 64px;" src="https://github.com/wtfsystems/.github/blob/main/img/vite.svg"></a>
 &nbsp;&nbsp;
 <br/><br/>
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 45px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
