@@ -1,5 +1,7 @@
 ![wtfsystems](https://github.com/wtfsystems/.github/blob/main//logos/wtf_logo_large.png)
 
+<p align="center">Open Source Community Driven Game Software</p>
+
 <br/>
 <img style="height: 48px;" src="https://github.com/wtfsystems/.github/blob/main/logos/wte_logo.png">
 
